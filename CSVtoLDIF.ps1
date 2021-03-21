@@ -27,7 +27,7 @@ $object = ForEach ($user in $importCSV)
 
 #Addieren der Strings
 "#Entry Number: " + $Counter++
-"dn: cn=" + $Vorname + " " + $Name + ",ou=kontakte,dc=schaad,dc=lan"
+"dn: cn=" + $Vorname + " " + $Name + ",ou=kontakte,dc=com"
 "cn: " + $Vorname + " " + $Name
 "givenname: " + $Vorname
 "l: " + $Ort

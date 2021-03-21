@@ -19,6 +19,8 @@ sudo docker run \
 	--env LDAP_ORGANISATION="gerzenstein" \
 	--env LDAP_DOMAIN="gerzenstein.com" \
 	--env LDAP_ADMIN_PASSWORD="admin" \
+	-p 389:389 \
+	-p 636:636 \
 	-v /data/openldap/database:/var/lib/ldap \
 	-v /data/openldap/config:/etc/ldap/slap.d \
 	--detach osixia/openldap:1.1.8
