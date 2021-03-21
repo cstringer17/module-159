@@ -19,6 +19,8 @@ sudo docker run \
 	--env LDAP_ORGANISATION="gerzenstein" \
 	--env LDAP_DOMAIN="gerzenstein.com" \
 	--env LDAP_ADMIN_PASSWORD="admin" \
+	-v /data/openldap/database:/var/lib/ldap \
+	-v /data/openldap/config:/etc/ldap \
 	--detach osixia/openldap:1.1.8
 
 sudo docker run --name phpldapadmin-service -p 9090:80 --hostname phpldapadmin-service --link ldap-service:ldap-host --env PHPLDAPADMIN_HTTPS=false --env PHPLDAPADMIN_LDAP_HOSTS=ldap-host --detach osixia/phpldapadmin:0.9.0
