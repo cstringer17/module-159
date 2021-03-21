@@ -22,7 +22,7 @@ sudo docker run \
 	-p 389:389 \
 	-p 636:636 \
 	-v /data/openldap/database:/var/lib/ldap \
-	-v /data/openldap/config:/etc/ldap/slap.d/ \
+	-v /data/openldap/config:/etc/ldap/slapd.d \
 	--detach osixia/openldap:1.1.8
 
 sudo docker run --name phpldapadmin-service -p 9090:80 --hostname phpldapadmin-service --link ldap-service:ldap-host --env PHPLDAPADMIN_HTTPS=false --env PHPLDAPADMIN_LDAP_HOSTS=ldap-host --detach osixia/phpldapadmin:0.9.0
