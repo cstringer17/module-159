@@ -202,7 +202,7 @@ mail: amelie.hoch@gertzenstein.local
 uidnumber: 3011
 userPassword: leer
 
-dn: cn=Andr� Kahn,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Andre Kahn,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -210,12 +210,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Andr� Kahn
-gn: andr�
+cn: Andre Kahn
+gn: andre
 sn: Kahn
-uid: andr�.kahn
-homeDirectory: /home/users/andr�.kahn
-mail: andr�.kahn@gertzenstein.local
+uid: andre.kahn
+homeDirectory: /home/users/andre.kahn
+mail: andre.kahn@gertzenstein.local
 uidnumber: 3012
 userPassword: leer
 
@@ -746,7 +746,7 @@ mail: carsten.koerner@gertzenstein.local
 uidnumber: 3043
 userPassword: leer
 
-dn: cn=Huetter C�line,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Huetter Celine,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -754,12 +754,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Huetter C�line
-gn: c�line
+cn: Huetter Celine
+gn: celine
 sn: Huetter
-uid: c�line.huetter
-homeDirectory: /home/users/c�line.huetter
-mail: c�line.huetter@gertzenstein.local
+uid: celine.huetter
+homeDirectory: /home/users/celine.huetter
+mail: celine.huetter@gertzenstein.local
 uidnumber: 3044
 userPassword: leer
 
@@ -5081,7 +5081,7 @@ mail: reinhardt.kohler@gertzenstein.local
 uidnumber: 3298
 userPassword: leer
 
-dn: cn=Ren� Jones,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Rene Jones,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -5089,7 +5089,7 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Ren� Jones
+cn: Rene Jones
 gn: ren
 sn: Jones
 uid: ren.jon
@@ -6254,7 +6254,7 @@ mail: and.lau@gertzenstein.local
 uidnumber: 3367
 userPassword: leer
 
-dn: cn=Maldonado Andr�,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Maldonado Andre,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -6262,12 +6262,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Maldonado Andr�
-gn: andr�
+cn: Maldonado Andre
+gn: andre
 sn: Maldonado
-uid: andr�.maldonado
-homeDirectory: /home/users/andr�.maldonado
-mail: andr�.maldonado@gertzenstein.local
+uid: andre.maldonado
+homeDirectory: /home/users/andre.maldonado
+mail: andre.maldonado@gertzenstein.local
 uidnumber: 3368
 userPassword: leer
 
@@ -6900,7 +6900,7 @@ mail: celina.massey@gertzenstein.local
 uidnumber: 3405
 userPassword: leer
 
-dn: cn=Lohmeier C�line,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Lohmeier Celine,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -6908,12 +6908,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Lohmeier C�line
-gn: c�line
+cn: Lohmeier Celine
+gn: celine
 sn: Lohmeier
-uid: c�line.lohmeier
-homeDirectory: /home/users/c�line.lohmeier
-mail: c�line.lohmeier@gertzenstein.local
+uid: celine.lohmeier
+homeDirectory: /home/users/celine.lohmeier
+mail: celine.lohmeier@gertzenstein.local
 uidnumber: 3406
 userPassword: leer
 
@@ -12629,7 +12629,7 @@ mail: zoe.lapp@gertzenstein.local
 uidnumber: 3742
 userPassword: leer
 
-dn: cn=Mack Zo�,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Mack Zoe,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -12637,12 +12637,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Mack Zo�
-gn: zo�
+cn: Mack Zoe
+gn: zoe
 sn: Mack
-uid: zo�.mack
-homeDirectory: /home/users/zo�.mack
-mail: zo�.mack@gertzenstein.local
+uid: zoe.mack
+homeDirectory: /home/users/zoe.mack
+mail: zoe.mack@gertzenstein.local
 uidnumber: 3743
 userPassword: leer
 
@@ -17865,7 +17865,7 @@ mail: renate.saul@gertzenstein.local
 uidnumber: 4050
 userPassword: leer
 
-dn: cn=Rhodes Ren�,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Rhodes Rene,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -17873,16 +17873,16 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Rhodes Ren�
-gn: ren�
+cn: Rhodes Rene
+gn: rene
 sn: Rhodes
-uid: ren�.rhodes
-homeDirectory: /home/users/ren�.rhodes
-mail: ren�.rhodes@gertzenstein.local
+uid: rene.rhodes
+homeDirectory: /home/users/rene.rhodes
+mail: rene.rhodes@gertzenstein.local
 uidnumber: 4051
 userPassword: leer
 
-dn: cn=Schuetze Ren�,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Schuetze Rene,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -17890,12 +17890,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Schuetze Ren�
-gn: ren�
+cn: Schuetze Rene
+gn: rene
 sn: Schuetze
-uid: ren�.schuetze
-homeDirectory: /home/users/ren�.schuetze
-mail: ren�.schuetze@gertzenstein.local
+uid: rene.schuetze
+homeDirectory: /home/users/rene.schuetze
+mail: rene.schuetze@gertzenstein.local
 uidnumber: 4052
 userPassword: leer
 
@@ -24546,7 +24546,7 @@ mail: reinhard.seibold@gertzenstein.local
 uidnumber: 4443
 userPassword: leer
 
-dn: cn=Ren� Steele,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Rene Steele,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -24554,7 +24554,7 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Ren� Steele
+cn: Rene Steele
 gn: ren
 sn: Steele
 uid: ren.ste
@@ -24563,7 +24563,7 @@ mail: ren.ste@gertzenstein.local
 uidnumber: 4444
 userPassword: leer
 
-dn: cn=Ren� Wittig,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Rene Wittig,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -24571,12 +24571,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Ren� Wittig
-gn: ren�
+cn: Rene Wittig
+gn: rene
 sn: Wittig
-uid: ren�.wittig
-homeDirectory: /home/users/ren�.wittig
-mail: ren�.wittig@gertzenstein.local
+uid: rene.wittig
+homeDirectory: /home/users/rene.wittig
+mail: rene.wittig@gertzenstein.local
 uidnumber: 4445
 userPassword: leer
 
@@ -25685,7 +25685,7 @@ mail: yvonne.senioren@gertzenstein.local
 uidnumber: 4510
 userPassword: leer
 
-dn: cn=Tappe Zo�,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Tappe Zoe,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -25693,12 +25693,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Tappe Zo�
-gn: zo�
+cn: Tappe Zoe
+gn: zoe
 sn: Tappe
-uid: zo�.tappe
-homeDirectory: /home/users/zo�.tappe
-mail: zo�.tappe@gertzenstein.local
+uid: zoe.tappe
+homeDirectory: /home/users/zoe.tappe
+mail: zoe.tappe@gertzenstein.local
 uidnumber: 4511
 userPassword: leer
 
@@ -38316,7 +38316,7 @@ mail: renate.graef@gertzenstein.local
 uidnumber: 5253
 userPassword: leer
 
-dn: cn=Ren� Flowers,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Rene Flowers,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -38324,16 +38324,16 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Ren� Flowers
-gn: ren�
+cn: Rene Flowers
+gn: rene
 sn: Flowers
-uid: ren�.flowers
-homeDirectory: /home/users/ren�.flowers
-mail: ren�.flowers@gertzenstein.local
+uid: rene.flowers
+homeDirectory: /home/users/rene.flowers
+mail: rene.flowers@gertzenstein.local
 uidnumber: 5254
 userPassword: leer
 
-dn: cn=Ren� Glaeser,ou=SuS,dc=gerzenstein,dc=com 
+dn: cn=Rene Glaeser,ou=SuS,dc=gerzenstein,dc=com 
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
@@ -38341,12 +38341,12 @@ objectClass: posixAccount
 objectClass: top
 loginShell: /bin/bash
 gidnumber: 509
-cn: Ren� Glaeser
-gn: ren�
+cn: Rene Glaeser
+gn: rene
 sn: Glaeser
-uid: ren�.glaeser
-homeDirectory: /home/users/ren�.glaeser
-mail: ren�.glaeser@gertzenstein.local
+uid: rene.glaeser
+homeDirectory: /home/users/rene.glaeser
+mail: rene.glaeser@gertzenstein.local
 uidnumber: 5255
 userPassword: leer
 
