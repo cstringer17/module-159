@@ -23,10 +23,8 @@ sudo docker run \
 
 sudo docker run --name phpldapadmin-service -p 9090:80 --hostname phpldapadmin-service --link ldap-service:ldap-host --env PHPLDAPADMIN_HTTPS=false --env PHPLDAPADMIN_LDAP_HOSTS=ldap-host --detach osixia/phpldapadmin:0.9.0
 
-sudo docker run --name  owncloud -d -p 8080:80 owncloud:8.1
+sudo docker run --name owncloud -d -p 8080:80  owncloud:8.1 
 
-PHPLDAP_IP=$(sudo docker inspect -f "{{ .NetworkSettings.IPAddress }}" phpldapadmin-service)
 
-echo "Go to: https://$PHPLDAP_IP"
-echo "Login DN: cn=admin,dc=geryenstein,dc=com"
+echo "Login DN: cn=admin,dc=gerzenstein,dc=com"
 echo "Password: admin"
